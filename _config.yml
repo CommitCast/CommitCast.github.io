@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://CommitCast.github.io
+title: CommitCast
+email: commitcast@godrix.com
+author: CommitCast
+description: $ commit -m "first commit"
+paginate: 3
+google_analytics: 
